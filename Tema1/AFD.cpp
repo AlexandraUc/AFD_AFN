@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    // Format fisier f: nr stari, card alfabet, stare initiala, nr stari, finale, stari finale, tranzitii
+    // Format fisier f: nr stari, card alfabet, stare initiala, nr stari finale, stari finale, tranzitii
     ifstream f("in2.txt"); 
     ifstream f2("cuvant.txt");
 
